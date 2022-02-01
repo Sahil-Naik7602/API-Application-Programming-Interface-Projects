@@ -3,9 +3,9 @@ import time
 import requests
 from datetime import datetime
 
-MY_USER_ID = "sahiltest7602@gmail.com"
-MY_PASSWORD = "7602@SahiL"
-RECEIVER_USER_ID = "sahiltest7602@yahoo.com"
+MY_USER_ID = "xxxxxxxxxxxxxxxx"
+MY_PASSWORD = "xxxxxxxxxxxxxxx"
+RECEIVER_USER_ID = "xxxxxxxxxxxxxxx"
 
 
 MY_LAT = 22.117551# Your latitude
